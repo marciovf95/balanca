@@ -10,5 +10,5 @@ C:\Users\{____USUARIOMAQUINA____}\AppData\Roaming\Microsoft\Windows\Start Menu\P
 Ou
 abrir executar e colocar shell:startup
 
-renicie a maquina e abrir navegador e colocar http://localhost:6969/
+reinicie a maquina e abrir navegador e colocar http://localhost:6969/
 
